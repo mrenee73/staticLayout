@@ -207,10 +207,6 @@ button {
 
 }
 
-/* font-size: 100%;
-    line-height: 1.15;
-    margin: 0;
-    border-radius: 0; */
 
 
 .library__item-wrapper {
@@ -218,101 +214,9 @@ button {
         position: relative;
         text-align: left;
 }
+ 
 
-
-/* .library__grid-item button {
-        font-family: Graphik;
-        background: none;
-        margin: 0;
-        padding: 0;
-        border: none;
-        color: #fff;
-        cursor: pointer;
-    } */
-
-
-    /* .library__item-background {
-        width: 100%;
-        object-fit: contain;
-    }
-
-    .library__item-overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        padding: 15px;
-        box-sizing: inherit;
-    }
-    .library__item-eyebrow {
-        font-size: 12px;
-        line-height: 12px;
-        margin-bottom: 5px;
-    }
-
-    .library__item-category {
-        font-size: 16px;
-        line-height: 16px;
-        font-weight: bold;
-    } */
-
-    /* .library__grid-item button {
-        font-family: Graphik;
-        background: none;
-        margin: 0;
-        padding: 0;
-        border: none;
-        color: #fff;
-        cursor: pointer;
-    }
-
-    .library__item-wrapper {
-        cursor: pointer;
-    } */
-    /* .library__item-wrapper {
-        position: relative;
-        text-align: left;
-    }
-    .library__item-gradient {
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        background: linear-gradient(
-    156.82deg
-    , rgba(0,0,0,0.6) 4.58%, rgba(0,0,0,0) 69.61%),linear-gradient(
-    24.5deg
-    , rgba(0,0,0,0.2) 4.71%, rgba(0,0,0,0) 71.49%);
-    }
-     */
-    /* .library__item-overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        padding: 15px;
-    }
-
-    .library__item-eyebrow {
-        font-size: 12px;
-        line-height: 12px;
-        margin-bottom: 5px;
-    } */
-
-    /* .library__item-category {
-        font-size: 16px;
-        line-height: 16px;
-        font-weight: bold;
-    } */
-    /* .library__grid-item button {
-        font-family: Graphik;
-        background: none;
-        margin: 0;
-        padding: 0;
-        border: none;
-        color: #fff;
-        cursor: pointer;
-    } */
-
+   
     .grid-container {
         display: grid;
         grid-template-columns: auto auto auto auto;
@@ -323,6 +227,6 @@ button {
         background-color: black;
         border: 1px solid rgba(0, 0, 0, 0);
         padding: 1px;
-        
+             
         
       }
